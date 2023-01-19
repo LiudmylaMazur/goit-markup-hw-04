@@ -226,7 +226,8 @@ margin-right: auto;
 
 .two-list {
   display: flex;
-  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 24px;
 }
 .two-item {
   width: 264px;
