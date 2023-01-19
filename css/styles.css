@@ -238,8 +238,15 @@ margin-right: auto;
   width: 100%;
   height: 100%;
   background-color: #f4f4fd;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.two-icon{
+
+}
+
 .section-two-list {
   
 }
