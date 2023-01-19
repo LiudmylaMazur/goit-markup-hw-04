@@ -242,8 +242,11 @@ margin-right: auto;
   align-items: center;
   justify-content: center;
 }
-
+.two-link:hover{
+  fill: ;
+}
 .two-icon{
+  fill: #000000;
 
 }
 
