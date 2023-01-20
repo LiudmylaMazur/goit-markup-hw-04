@@ -388,7 +388,25 @@ border-radius: 0px 0px 4px 4px;
   background-color: var(--dark);
   padding-top: 100px;
   padding-bottom: 100px;
+  
 }
+
+.footer-list{
+  display: flex;
+  gap: 120px;
+}
+
+.footer-list-social{
+
+}
+
+
+.footer-item{
+
+}
+
+
+
 .footer-logo {
   font-family: "Raleway";
   font-weight: 800;
@@ -411,6 +429,49 @@ border-radius: 0px 0px 4px 4px;
   width: 264px;
   margin-top: 16px;
 }
+
+.footer-paragraph-one{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #e7e9fc;
+  width: 264px;
+  margin-bottom: 16px;
+ 
+}
+
+.footer-list {
+  display: flex;
+  gap: 120px;
+}
+.footer-item {
+  width: 40px;
+  height: 40px;
+}
+.footer-link {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.1);;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.footer-link:hover{
+  background-color:#31D0AA;
+
+}
+.footer-list-item{
+  display: flex;
+  gap: 24px;
+
+}
+.footer-icon {
+}
+
+
 
 /* ---------------------------section-portfolio------ */
 .section-portfolio {
